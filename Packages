@@ -19,3 +19,23 @@ Author: Erast
 Sponsor: 搬运工
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bienvannhat-support.animemybadges
+Architecture: iphoneos-arm
+Version: 1.0-2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debfiles/com.bienvannhat-support.animemybadges_1.0-2_iphoneos-arm.deb
+Size: 414504
+MD5sum: 7f741d8f961e62a35cc21e3d49a08580
+SHA1: 69bfe395ec4fba3040b87605a90cb0a86011483d
+SHA256: f29b210815ea4b68151fb7f6cc157445d7e22cc07265bc4baa3708d58a9529de
+SHA512: 5e1e931ba07a0a0cd0955ab846135969fcc1bd9800a36bc08c69b806b978347edce9821fa578da0bafa5d72169679691a4a9d72a33829a1db07ed8b4044420e0
+Description: Tinh chỉnh để tạo hiệu ứng cho các huy hiệu ứng dụng của bạn!
+Name: animemybadges Việt Hoá
+Author: Antony .M
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bienvannhat-support.animemybadges
+SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bienvannhat-support.animemybadges
+
