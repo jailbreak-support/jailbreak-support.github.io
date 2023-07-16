@@ -1,0 +1,20 @@
+Package: BIENVANNHAT.violetpro-rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 6740
+Depends: mobilesubstrate, firmware (>= 15.0), com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 2.0)
+Filename: ./debfiles/BIENVANNHAT.violetpro-rootless_1.0.0_iphoneos-arm64.deb
+Size: 5919322
+MD5sum: 44b33a671722b003a6ba12e18d772c36
+SHA1: 898aae0192f5e06bfbbfac8a64df6810556564d6
+SHA256: ad44c85e6a5d8049c575a8ea330f20cd422d80ed34e0e1b5e24122644e02259b
+SHA512: 0d1ce9101b600d4eec1bcd40651d10dfbac3f446ff8f13f60ca10aea58064500a8f37beaef1e5700298c40caa3999d11647492603448e3f82fff81469f1eb251
+Description: Người giúp việc cho trình cắm Siri được cá nhân hóa Siri của bạn!
+Depiction: http://support-jailbreak.github.io/infodeb/Violet/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Violet.json
+Name: Violet Pro VH(Rootless
+Author: Erast
+Sponsor: 搬运工
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
